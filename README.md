@@ -31,7 +31,7 @@ A basic backend API for managing a list of to-do tasks, built with Python and Fl
 2.  **Clone the Repository:**
     ```bash
     git clone https://github.com/michaelp91-dev/python-flask-todo-api.git
-    cd YOUR_REPO_NAME
+    cd python-flask-todo-api
     ```
 
 3.  **Create and Activate a Virtual Environment:**
